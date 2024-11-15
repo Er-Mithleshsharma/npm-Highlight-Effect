@@ -1,5 +1,8 @@
 # TypingEffectWithHighlights
-![Alt text](./main.png)
+<div style="text-align: center;">
+  <img src="./main.png" alt="Alt text" width="500" height="500">
+</div>
+
 
 A React component that simulates a typing effect while highlighting specific words based on the provided JSON data. The component types out the content word-by-word and applies dynamic highlights with customizable colors.
 
