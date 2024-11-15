@@ -1,0 +1,93 @@
+{
+  "text": "Nowadays, in some countries, parents assume that if kids try hard, they will be able to achieve their goals properly. In the forthcoming paragraphs, I shall elaborate on the pros and cons of this matter.\nOn the one hand, firstly, it is obvious that if we encourage our younger generations, we will be able to support them to gain more success in their lives. In other words, supportive actions will help them to promote their cooperative sensations. So, it is crucial to focus on these characteristics to achieve their long-term purposes.",
+  "corrections": [
+    {
+      "start_index": 10,
+      "end_index": 22,
+      "color": "red"
+    },
+    {
+      "start_index": 44,
+      "end_index": 50,
+      "color": "blue"
+    },
+    {
+      "start_index": 74,
+      "end_index": 83,
+      "color": "green"
+    },
+    {
+      "start_index": 90,
+      "end_index": 109,
+      "color": "orange"
+    },
+    {
+      "start_index": 129,
+      "end_index": 141,
+      "color": "purple"
+    },
+    {
+      "start_index": 174,
+      "end_index": 185,
+      "color": "teal"
+    },
+    {
+      "start_index": 200,
+      "end_index": 218,
+      "color": "brown"
+    },
+    {
+      "start_index": 230,
+      "end_index": 245,
+      "color": "pink"
+    },
+    {
+      "start_index": 267,
+      "end_index": 285,
+      "color": "cyan"
+    },
+    {
+      "start_index": 305,
+      "end_index": 317,
+      "color": "yellow"
+    },
+  
+    {
+      "start_index": 23,
+      "end_index": 32,
+      "color": "blue"
+    },
+  
+    {
+      "start_index": 110,
+      "end_index": 128,
+      "color": "orange"
+    },
+    {
+      "start_index": 142,
+      "end_index": 173,
+      "color": "purple"
+    },
+    {
+      "start_index": 186,
+      "end_index": 199,
+      "color": "teal"
+    },
+  
+    {
+      "start_index": 246,
+      "end_index": 266,
+      "color": "pink"
+    },
+    {
+      "start_index": 286,
+      "end_index": 304,
+      "color": "cyan"
+    },
+    {
+      "start_index": 318,
+      "end_index": 337,
+      "color": "yellow"
+    }
+  ]
+}

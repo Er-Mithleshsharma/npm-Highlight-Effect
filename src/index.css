@@ -1,0 +1,92 @@
+/* General styles */
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  font-family: 'Arial', sans-serif;
+  background-color: #000;
+  color: #fff;
+  box-sizing: border-box;
+}
+
+/* App container */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  width: 100%;
+  background-color: #000;
+}
+
+/* Heading styles */
+.heading-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.heading-container h1 {
+  font-size: 2rem;
+  color: #f4f4f4;
+  margin: 0;
+  padding: 10px 20px;
+}
+
+.heading-container p {
+  font-size: 1.1rem;
+  color: #dcdcdc;
+  padding: 10px 20px;
+}
+
+.heading-container img {
+  height: 80px;
+  margin-bottom: 20px;
+}
+
+/* Content container */
+.container {
+  max-width: 550px;
+  padding: 20px;
+  background-color: #fff;
+  color: #000;
+  border-radius: 12px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  border: 1px solid #e0e0e0;
+  overflow: hidden;
+  font-weight: bold;
+  margin: 0 auto;
+}
+
+/* Footer styles */
+.footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+  color: #dcdcdc;
+  padding-bottom: 40px;
+}
+
+.footer strong {
+  color: #f4f4f4;
+}
+/* Button styles */
+.start-button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #ad2424;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.start-button:hover {
+  background-color: #8b1313;
+}
+
+/* Other styles remain the same */
